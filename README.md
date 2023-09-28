@@ -74,3 +74,17 @@ alert('awesome!')
 <tr ><td class="artifact-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/suites/16678954439/artifacts/953090829>Dummy-file-4</a></td><td class="workflow-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/actions/runs/6344017649>generate-artifacts</a></td></tr>
 <tr ><td class="artifact-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/suites/16678954439/artifacts/953090834>Dummy-file-5</a></td><td class="workflow-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/actions/runs/6344017649>generate-artifacts</a></td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
+
+
+<table>
+  <tr>
+    <th>Code</th>
+    <th>Comment</th>
+  </tr>
+  <tr>
+    <td>{% highlight cpp %}int x = 3;{% endhighlight %}</td>
+    <td>Declare variable x with integer value 3</td>
+  </tr>
+</table>
+
+
