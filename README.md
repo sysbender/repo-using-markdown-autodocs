@@ -14,6 +14,29 @@ console.log('Hello World!');
 ```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
+## Example: nice looking table to compare code changes
+
+<table>
+<tr>
+<td> Before </td> <td> After </td>
+</tr>
+<tr>
+<td>
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./hello.js) -->
+ 
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+</td>
+<td>
+    
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./hello.py) -->
+ 
+<!-- MARKDOWN-AUTO-DOCS:END -->
+</td>
+</tr>
+</table>
+
 
 
 ## Code block
