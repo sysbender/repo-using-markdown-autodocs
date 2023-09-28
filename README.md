@@ -83,8 +83,15 @@ alert('awesome!')
   </tr>
   <tr>
     <td>{% highlight cpp %}int x = 3;{% endhighlight %}</td>
-    <td>Declare variable x with integer value 3</td>
+    <td> 
+    {% highlight javascript %}
+    {% include_relative ./hello.js %}
+    {% endhighlight %}  
+    
+    </td>
   </tr>
 </table>
+
+
 
 
