@@ -1,7 +1,17 @@
 # Example Repo for [`markdown-autodocs`](https://github.com/marketplace/actions/markdown-autodocs)
 
+ 
+
 
 This repo demonstrates how markdown-autodocs works. [View the raw `README.md`](https://raw.githubusercontent.com/dineshsonachalam/repo-using-markdown-autodocs/main/README.md) file to see the comments needed for [`markdown-autodocs`](https://github.com/marketplace/actions/markdown-autodocs) to, well, do it's auto documentation.
+## my code
+
+
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./hello.js) -->
+ 
+<!-- MARKDOWN-AUTO-DOCS:END -->
+
+
 
 ## Code block
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./code-that-i-want-in-readme.js) -->
