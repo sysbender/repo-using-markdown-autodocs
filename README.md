@@ -85,7 +85,7 @@ alert('awesome!')
     <td>{% highlight cpp %}int x = 3;{% endhighlight %}</td>
     <td> 
     {% highlight javascript %}
-    {% include_relative ./hello.js %}
+    {% include_relative hello.js %}
     {% endhighlight %}  
     
     </td>
