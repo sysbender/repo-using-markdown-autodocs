@@ -8,7 +8,10 @@ This repo demonstrates how markdown-autodocs works. [View the raw `README.md`](h
 
 
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./hello.js) -->
- 
+<!-- The below code snippet is automatically added from ./hello.js -->
+```js
+console.log('Hello World!');
+```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 
@@ -33,9 +36,9 @@ alert('awesome!')
 
 ## Github Workflow Artifacts table
 <!-- MARKDOWN-AUTO-DOCS:START (WORKFLOW_ARTIFACT_TABLE) -->
-<table class="ARTIFACTS-TABLE"><thead><tr><th class="artifact-th">Artifact</th><th class="workflow-th">Workflow</th></tr></thead><tbody ><tr ><td class="artifact-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/suites/8127896535/artifacts/352061364>Dummy-file-1</a></td><td class="workflow-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/actions/runs/2988868978>generate-artifacts</a></td></tr>
-<tr ><td class="artifact-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/suites/8127896535/artifacts/352061365>Dummy-file-2</a></td><td class="workflow-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/actions/runs/2988868978>generate-artifacts</a></td></tr>
-<tr ><td class="artifact-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/suites/8127896535/artifacts/352061366>Dummy-file-3</a></td><td class="workflow-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/actions/runs/2988868978>generate-artifacts</a></td></tr>
-<tr ><td class="artifact-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/suites/8127896535/artifacts/352061367>Dummy-file-4</a></td><td class="workflow-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/actions/runs/2988868978>generate-artifacts</a></td></tr>
-<tr ><td class="artifact-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/suites/8127896535/artifacts/352061368>Dummy-file-5</a></td><td class="workflow-td td_text"><a href=https://github.com/dineshsonachalam/repo-using-markdown-autodocs/actions/runs/2988868978>generate-artifacts</a></td></tr></tbody></table>
+<table class="ARTIFACTS-TABLE"><thead><tr><th class="artifact-th">Artifact</th><th class="workflow-th">Workflow</th></tr></thead><tbody ><tr ><td class="artifact-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/suites/16678664973/artifacts/953074635>Dummy-file-1</a></td><td class="workflow-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/actions/runs/6343934545>generate-artifacts</a></td></tr>
+<tr ><td class="artifact-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/suites/16678664973/artifacts/953074637>Dummy-file-2</a></td><td class="workflow-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/actions/runs/6343934545>generate-artifacts</a></td></tr>
+<tr ><td class="artifact-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/suites/16678664973/artifacts/953074639>Dummy-file-3</a></td><td class="workflow-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/actions/runs/6343934545>generate-artifacts</a></td></tr>
+<tr ><td class="artifact-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/suites/16678664973/artifacts/953074641>Dummy-file-4</a></td><td class="workflow-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/actions/runs/6343934545>generate-artifacts</a></td></tr>
+<tr ><td class="artifact-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/suites/16678664973/artifacts/953074644>Dummy-file-5</a></td><td class="workflow-td td_text"><a href=https://github.com/sysbender/repo-using-markdown-autodocs/actions/runs/6343934545>generate-artifacts</a></td></tr></tbody></table>
 <!-- MARKDOWN-AUTO-DOCS:END -->
